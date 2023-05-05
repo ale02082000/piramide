@@ -3,7 +3,7 @@
 
 
 
- ~~Il tuo compito oggi è scrivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.
+ ~~Il tuo compito oggi è scrivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.~~
 
 Ipotizzando che:
 
