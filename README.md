@@ -3,7 +3,7 @@
 
 
 
- ~~Il tuo compito oggi è scrivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.~~
+ ***Il tuo compito oggi è scrivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.
 
 Ipotizzando che:
 
@@ -17,7 +17,7 @@ Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 Sviluppare:
 
 - il metodo int Piani( int mattoni ) che torna il numero di piani
-- il metodo int Rimanenti( int mattoni ) che torna il numero di mattoni rimasti dopo la costruzione~~
+- il metodo int Rimanenti( int mattoni ) che torna il numero di mattoni rimasti dopo la costruzione***
 
 
 
