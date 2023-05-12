@@ -85,7 +85,7 @@ public static int Rimanenti(int mattoni)
 
 
 
- *** implementa una funzione chiamata Rimanenti all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di mattoni rimanenti dopo aver costruito la piramide con il numero di mattoni forniti.***
+ ***implementa una funzione chiamata Rimanenti all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di mattoni rimanenti dopo aver costruito la piramide con il numero di mattoni forniti.***
 
 ***La funzione inizia chiamando la funzione Piani (presumibilmente definita in un'altra parte del codice) con il parametro mattoni, che restituisce il numero di piani che possono essere costruiti con i mattoni forniti. Questo valore viene assegnato alla variabile piani.***
 
