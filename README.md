@@ -48,7 +48,7 @@ namespace Piramide
         }
 
 ``` 
- ***Il codice che hai mostrato implementa una funzione chiamata Piani all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di piani che possono essere costruiti con il numero di mattoni forniti.***
+***implementa una funzione chiamata Piani all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di piani che possono essere costruiti con il numero di mattoni forniti.***
 
 ***La funzione inizia verificando che il numero di mattoni forniti sia maggiore o uguale a 1, altrimenti restituisce 0 perché non sarebbe possibile costruire neanche un piano.***
 
@@ -85,7 +85,7 @@ public static int Rimanenti(int mattoni)
 
 
 
- ***Il codice che hai mostrato implementa una funzione chiamata Rimanenti all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di mattoni rimanenti dopo aver costruito la piramide con il numero di mattoni forniti.***
+ *** implementa una funzione chiamata Rimanenti all'interno della classe Piramide. La funzione prende un parametro intero chiamato mattoni e restituisce un intero che rappresenta il numero di mattoni rimanenti dopo aver costruito la piramide con il numero di mattoni forniti.***
 
 ***La funzione inizia chiamando la funzione Piani (presumibilmente definita in un'altra parte del codice) con il parametro mattoni, che restituisce il numero di piani che possono essere costruiti con i mattoni forniti. Questo valore viene assegnato alla variabile piani.***
 
